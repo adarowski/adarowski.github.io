@@ -5,8 +5,19 @@ date:      2014-09-24 13:36:29
 permalink: /welcome
 ---
 
-![Bat](http://www.hallofstats.com/assets/photos/burlingame-bat.jpg)
+<div class="banner-image">
+  <img src="http://www.hallofstats.com/assets/photos/burlingame-bat.jpg" />
+</div>
 
+# This is an h1
+
+## This is an h2
+
+### This is an h3
+
+#### This is an h4
+
+##### This is an h5
 Last year, I made it to SABR43 in Philadelphia—but only for one day so I could [present my poster on the Hall of Stats](http://www.hallofstats.com/articles/hall-of-stats-poster-at-sabr-43). This year, I wasn't able to make it because I was in the process of moving to New Hampshire.
 
 I did send some work, though. I put together the bio for the 2014 SABR Overlooked Base Ball Legend ([Doc Adams](http://www.hallofstats.com/articles/doc-adams-overlooked-legend)). I also wrote a submission for *The National Pastime*—the [Houston Astros Hall of Stats](http://www.hallofstats.com/articles/the-houston-astros-hall-of-stats).

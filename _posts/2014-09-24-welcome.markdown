@@ -1,6 +1,6 @@
 ---
 layout:    article
-title:     "Chairman’s Award"
+title:     "How would you define the role of a web designer vs a web developer?"
 date:      2014-09-24 13:36:29
 permalink: /welcome
 ---
@@ -9,22 +9,14 @@ permalink: /welcome
   <img src="http://www.hallofstats.com/assets/photos/burlingame-bat.jpg" />
 </div>
 
-# This is an h1
+First, when I think of the term "web designer" I think of a couple different camps—the traditional web designer who works on "static" websites and the product designer who works on web applications. By "static" websites, I mean content-based websites that aim to market a company's products or services.
 
-## This is an h2
+A traditional web designer likely works directly with marketing (if they are an in-house designer) or a client (if they work with an agency). They could also work with a web developer who would implement their design and integrate with a content management system (unless the designer is comfortable doing that work).
 
-### This is an h3
+A product designer is a web designer who has a very specific set of skills. Product designers work with font end developers, back end developers, product managers, product marketers, and—most importantly—users. A product designer's skill set doesn't lean as much toward pure visual design (though that's always a great skill to have), instead focusing on user experience design, interaction design, and usability (these terms overlap a great deal).
 
-#### This is an h4
+A traditional web designer has more of a marketing role. They want to show you the benefits of a product or service so that you'll use it. The product designer works on the product the traditional web designer is essentially trying to sell.
 
-##### This is an h5
-Last year, I made it to SABR43 in Philadelphia—but only for one day so I could [present my poster on the Hall of Stats](http://www.hallofstats.com/articles/hall-of-stats-poster-at-sabr-43). This year, I wasn't able to make it because I was in the process of moving to New Hampshire.
+At HubSpot, we have one team who works on [HubSpot.com](http://hubspot.com) and a completely different team in a completely different division that builds the product. I work on the product. When I worked with BatchBook a few years ago, we were a very small team. I worked on both the company site and the product. I can handle both , but I'm definitely much more of a product designer.
 
-I did send some work, though. I put together the bio for the 2014 SABR Overlooked Base Ball Legend ([Doc Adams](http://www.hallofstats.com/articles/doc-adams-overlooked-legend)). I also wrote a submission for *The National Pastime*—the [Houston Astros Hall of Stats](http://www.hallofstats.com/articles/the-houston-astros-hall-of-stats).
-
-Still, I was bummed to miss the conference. I was even more bummed when I found out I won an award.
-
-Peter Mancuso, chair of the Nineteenth Century Committee, gave me the "Chairman's Award" for my "duties as the new Chairman of the Overlooked 19th Century Baseball Legends Project Committee, and for managing an extremely professional election process."
-
-
-Yesterday, my award arrived—an inscribed replica 1880s Burlingame model bat produced by the Phoenix Bat Company. I want to thank Peter for the honor and the entire Overlooked Legends committee for such a smooth and exciting election this year. The bat will go perfectly in my brand new office!
+"Web developer" is a very general term that I take to mean something similar to a front end developer (which we'll go into more in a bit) or "the person to does everything except the design."

@@ -80,15 +80,20 @@ h1, h2, h3, h4, h5
 h1
   font-size: 48px
   margin: 0
+  line-height: 1.2
   a:link, a:visited, a:hover, a:active
     color: black
+  &.article-title
+    margin-bottom: 10px
   #about &
     font-size: 70px
-    margin: 0 0 20px
+    margin-bottom: 20px
     line-height: 1
     @media only screen and (max-width: 480px)
       font-size: 60px
-      margin-top: 0
+  .article-header &
+    @media only screen and (max-width: 480px)
+      font-size: 36px
 
 h2
   font-size: 30px

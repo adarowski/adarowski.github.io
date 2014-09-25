@@ -1,0 +1,14 @@
+<section id="articles">
+  <h2>
+    Some Things I’ve Written
+    <a class="rss-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">(RSS)</a>
+  </h2>
+  <ul class="article-list">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

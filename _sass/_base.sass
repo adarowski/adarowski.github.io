@@ -59,6 +59,11 @@ a
       color: #DF1256
     &:hover, &:active, a:focus
       color: darken(#DF1256, 15%)
+  &.spotify
+    &:link, &:visited
+      color: #648f00
+    &:hover, &:active, a:focus
+      color: darken(#648f00, 15%)
 
 .container
   margin: 60px 0 120px
@@ -98,6 +103,7 @@ h1
 
 h2
   font-size: 30px
+  margin: 40px 0 20px
   #about &, #articles &
     @extend %small-capped
     margin: 0 0 10px
@@ -148,16 +154,6 @@ p
     width: 80px
     margin-right: 0
 
-footer
-  border-top: 1px dotted #eee
-  padding-top: 20px
-  margin-bottom: 80px
-  font-size: 14px
-  .social
-    color: #999
-    a
-      font-weight: normal
-
 sup
   vertical-align: baseline
   position: relative
@@ -168,6 +164,8 @@ sup
   p
     font-size: 16px
     color: #666
+    &.social
+      color: #999
 
 .article-list
   color: #666
@@ -179,11 +177,14 @@ sup
     margin-right: 10px
 
 .end-of-article
-  max-width: 868px
+  max-width: 900px
   margin: 80px auto 40px
   border: 0
   height: 5px
   background: #f6f6f6
+  @media only screen and (max-width: 900px)
+    margin-left: -20px
+    margin-right: -20px
 
 .article-content
   img
@@ -196,7 +197,7 @@ sup
     img
       display: block
 
-    @media only screen and (max-width: 800px)
+    @media only screen and (max-width: 868px)
       margin-left: -20px
       margin-right: -20px
 

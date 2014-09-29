@@ -21,9 +21,9 @@ Is the cake on the left really a “viable product?” It is able to be consumed
 
 When building software, what does “viable” mean? The cake image implies that “viable” simply means the software will run. If you look at Ries’ definition, a minimum viable product is something much different.
 
-Young startups have very limited resources. Spending too many development cycles going down the wrong path can destroy them. This is what’s great about a minimum viable product. Each startup begins with an idea—one worth forming a company around. That is the idea that you validate with an MVP.
+Young startups have very limited resources. Spending too many development cycles going down the wrong path can destroy them. This is what’s great about a minimum viable product. Every startup begins with an idea—one worth forming a company around. That is the idea that you validate with an MVP.
 
-Take a look at [how Zappos started](http://stonemaiergames.com/kickstarter-lesson-105-minimal-viable-product/):
+This is [how Zappos started](http://stonemaiergames.com/kickstarter-lesson-105-minimal-viable-product/):
 
 <blockquote>
   <p>In reality, Zappos was originally called shoesite.com. A guy named Nick Swinmurn had this “crazy” idea that shoes could be sold online, so he patched together a very basic website. But he needed shoes to sell, and he had no money.</p>
@@ -34,9 +34,9 @@ Through this minimalist MVP, Swinmurn was able to find out that there was indeed
 
 ## Minimum viable functionality
 
-HubSpot may feel like a startup on the inside, but it’s a company with more than 700 employees and over 10,000 paying customers in 70 countries. We have the resources to validate our ideas that bootstrapped startups do not. This is an advantage, for sure. On the flipside, it’s not acceptable for us to ship a minimum viable product—even if it’s something brand new. People are expecting mature, robust software from us.
+HubSpot may feel like a startup on the inside, but it’s a company with more than 700 employees and over 11,500 customers in 70 countries. We have the resources to validate our ideas that bootstrapped startups do not. This is an advantage, for sure. On the flipside, it’s not acceptable for us to ship a minimum viable product—even if it’s [something brand new](http://www.hubspot.com/company-news/hubspot-launches-free-crm-and-sidekick-sales-acceleration-at-inbound14). People are expecting robust, delightful software from us.
 
-I’ve been trying to look at “minimum viable” in two ways. One is minimum viable **product** but the other is minimum viable **functionality.** What I’ve been calling minimum viable *functionality* is essentially what Ries called minimum viable *product*—it’s the early prototype that’s just good enough to generate insight.
+I’ve been trying to think of “minimum viable” in two ways. One is minimum viable **product** but the other is minimum viable **functionality.** What I’ve been calling minimum viable *functionality* is essentially what Ries called minimum viable *product*—it’s the early prototype that’s just good enough to generate insight.
 
 I break it down like this:
 
@@ -47,7 +47,8 @@ I break it down like this:
 | What’s there works | What’s there is awesome |
 | Ready to ship and test | Ready to ungate to all |
 
-The key for us is that last row. At HubSpot, [we use feature gating](http://blogs.hbr.org/2014/07/speed-up-your-product-development-without-losing-control/?utm_content=6701988&utm_medium=social&utm_source=twitter) to test our work during the development process. It’s been life-changing for me as a designer and developer. We are able to build features on the site, but only activate them for certain users. First, we’ll “ungate” members of our small product team team, then we’ll ungate other HubSpot employees, and then finally—**when we reach minimum viable functionality**—a subset of beta users.
+The key for us is that last row. At HubSpot, [we use feature gating](http://blogs.hbr.org/2014/07/speed-up-your-product-development-without-losing-control/?utm_content=6701988&utm_medium=social&utm_source=twitter) to test our work during the development process. It’s been life-changing for me as a designer and developer. We are able to build features on the site, but only activate them for certain users. At first, we’ll “ungate” members of our small product team team. But once we've reached minimum viable functionality, we begin ungating for beta users.
 
-Because these are beta users, they are more tolerant of ideas that are not fully fleshed out. In fact, they enjoy helping us work through product decisions at this stage. Through multiple rounds of iteration with our beta users, we finally reach *our* minimum viable **product**—one that fulfills our goals of delighting our users.
+Because these are beta users, they are more tolerant of software at this stage in development. In fact, they enjoy helping us work through difficult product decisions. Through multiple rounds of iteration with our beta users, we finally reach *our* minimum viable **product**—a product that not only functions well, but fulfills our goals of delighting our users. That's the product we ungate to the world.
 
+Utilizing minimum viable product does not mean shipping poorly designed, half-baked software. "Minimum" and "viable" mean wildly different things to companies at different stages. As with just about everything else, just use the best tool for the job.

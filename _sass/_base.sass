@@ -21,7 +21,11 @@ body
   border-top: 20px solid #f6f6f6
 
 .container
-  padding: 20px
+  border-top: 2px solid #eee
+  padding: 60px 20px 120px
+
+  @media only screen and (max-width: 800px)
+    margin: 0
 
 header, footer, section, article
   display: block
@@ -64,12 +68,11 @@ a
       color: #648f00
     &:hover, &:active, a:focus
       color: darken(#648f00, 15%)
-
-.container
-  margin: 60px 0 120px
-
-  @media only screen and (max-width: 800px)
-    margin: 0
+  &.bandcamp
+    &:link, &:visited
+      color: #609AAA
+    &:hover, &:active, a:focus
+      color: darken(#609AAA, 15%)
 
 #news
   background-color: white

@@ -30,7 +30,7 @@ This is [how Zappos started](http://stonemaiergames.com/kickstarter-lesson-105-m
   <p>Nick happened to live near a small shoe store. One day he went to the store and took photos of a bunch of shoes to post on his website. Whenever someone bought a pair of shoes, Nick would run over to the store, buy the shoes, and ship them to the person.</p>
 </blockquote>
 
-Through this minimalist MVP, Swinmurn was able to find out that there was indeed a market for buying shoes online. With his idea validated, he could now go ahead and build his real (as in, greater than minimum) “viable” product. He didn’t build the boriing cake on the left. He bootstrapped the cupcake, with a focus on the frosting (the sweet idea that would set Zappos apart).
+Through this minimalist MVP, Swinmurn was able to find out that there was indeed a market for buying shoes online. With his idea validated, he could now go ahead and build his real (as in, greater than minimum) “viable” product. He didn’t build the boring cake on the left. He bootstrapped the cupcake, with a focus on the frosting (the sweet idea that would set Zappos apart).
 
 ## Minimum viable functionality
 

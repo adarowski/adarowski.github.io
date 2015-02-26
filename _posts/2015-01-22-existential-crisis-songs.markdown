@@ -13,6 +13,7 @@ On January 5, I released a three-song EP called *Existential Crisis Songs*.
 * [BandCamp](https://adarowski.bandcamp.com/album/existential-crisis-songs) *(streaming or pay-what-you-want download)*
 * [Spotify](https://open.spotify.com/album/4HCB3cRZ65C3mMUNacSWQQ) *(streaming)*
 * [Rdio](https://www.rdio.com/artist/Adam_Darowski/album/Existential_Crisis_Songs/) *(streaming)*
+* [SoundCloud](https://soundcloud.com/adam-darowski/sets/existential-crisis-songs) *(streaming)*
 * [Amazon MP3](http://www.amazon.com/Existential-Crisis-Songs-Explicit-Darowski/dp/B00RZDPRVW/ref=sr_1_5?ie=UTF8&qid=1420773221&sr=8-5&keywords=adam+darowski) *($2.97)*
 * [iTunes](https://itunes.apple.com/us/album/existential-crisis-songs-single/id955536871) *($2.97)*
 * [Google Play](https://play.google.com/store/music/album/Adam_Darowski_Existential_Crisis_Songs?id=B42gbbmodgvzoh44m33e6xsnb24&hl=en) *($2.97)*

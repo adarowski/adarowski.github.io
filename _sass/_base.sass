@@ -22,15 +22,20 @@ body
 
 .container
   border-top: 2px solid #eee
-  padding: 60px 20px 120px
 
   @media only screen and (max-width: 800px)
     margin: 0
 
-header, footer, section, article
+footer
+  background-color: #fafafa
+  border-top: 4px solid #f6f6f6
+
+header, section, article
   display: block
   margin: 0 auto
-  max-width: 768px
+  max-width: 800px
+  padding-left: 20px
+  padding-right: 20px
 
 a
   text-decoration: none
@@ -73,14 +78,6 @@ a
       color: #609AAA
     &:hover, &:active, a:focus
       color: darken(#609AAA, 15%)
-
-#news
-  background-color: white
-  padding: 20px
-  margin-bottom: 20px
-  border-radius: 5px
-  background: white url(sprocket.png) no-repeat -30px -26px
-  box-shadow: 0 0 20px fade-out(#ccc, 0.2)
 
 h1, h2, h3, h4, h5
   line-height: 1.2
@@ -148,6 +145,11 @@ ul
   margin: 0 0 20px
   padding-left: 20px
 
+li
+  margin-bottom: 10px
+  &:last-child
+    margin-bottom: 0
+
 .portrait
   float: right
   height: 120px
@@ -168,11 +170,19 @@ sup
   font-variant: small-caps
 
 #about
+  padding-top: 60px
+
+  @media only screen and (max-width: 800px)
+    padding-top: 20px
+
   p
     font-size: 16px
     color: #666
     &.social
       color: #999
+
+#articles
+  padding-bottom: 120px
 
 .article-list
   color: #666
@@ -185,17 +195,14 @@ sup
   li
     margin-bottom: 5px
 
-.end-of-article
-  max-width: 900px
-  margin: 80px auto 40px
-  border: 0
-  height: 5px
-  background: #f6f6f6
-  @media only screen and (max-width: 900px)
-    margin-left: -20px
-    margin-right: -20px
+.article-header
+  padding-top: 60px
+
+  @media only screen and (max-width: 800px)
+    padding-top: 20px
 
 .article-content
+  padding-bottom: 60px
   img
     max-width: 100%
     height: auto

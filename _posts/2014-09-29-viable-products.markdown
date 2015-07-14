@@ -12,7 +12,7 @@ In *The Lean Startup,* Eric Ries defines a "minimum viable product”:
 The minimum viable product has gotten a bad reputation lately. I think it all started with this image from [a presentation by Spook Studio](http://www.slideshare.net/spookstudio/the-minimum-loveable-product-31984451):
 
 <div class="banner-image">
-  <img src="/assets/mvp-vs-mlp.jpg" />
+  <img src="/assets/mvp-vs-mlp.jpg" alt="A graphic with a plain cake labeled 'Minimum Viable Product' on the left and a fancy cupcake labled 'Minimum Loveable Product' on the right" />
 </div>
 
 ## The definition of “viable”

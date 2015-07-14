@@ -86,7 +86,6 @@ h1, h2, h3, h4, h5
 h1
   font-size: 48px
   margin: 0
-  line-height: 1.2
   a:link, a:visited, a:hover, a:active
     color: black
   &.article-title
@@ -147,6 +146,8 @@ ul
 
 li
   margin-bottom: 10px
+  line-height: 1.6
+
   &:last-child
     margin-bottom: 0
 
@@ -230,6 +231,20 @@ sup
       background-color: #eee
     td
       border-top: 1px solid #eee
+
+.ecs-iframe
+  border: 0
+  width: 100%
+  height: 905px
+
+  @media only screen and (max-width: 320px)
+    height: 520px
+
+  @media only screen and (min-width: 321px) and (max-width: 480px)
+    height: 700px
+
+  @media only screen and (min-width: 481px) and (max-width: 600px)
+    height: 800px
 
 .rss-link
   letter-spacing: 0

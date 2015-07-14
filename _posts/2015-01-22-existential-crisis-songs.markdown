@@ -7,7 +7,7 @@ permalink: /existential-crisis-songs
 
 On January 5, I released a three-song EP called *Existential Crisis Songs*.
 
-<iframe style="border: 0; width: 100%; height: 905px;" src="https://bandcamp.com/EmbeddedPlayer/album=1677567313/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://adarowski.bandcamp.com/album/existential-crisis-songs">Existential Crisis Songs by Adam Darowski</a></iframe>
+<iframe class="ecs-iframe" src="https://bandcamp.com/EmbeddedPlayer/album=1677567313/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://adarowski.bandcamp.com/album/existential-crisis-songs">Existential Crisis Songs by Adam Darowski</a></iframe>
 
 ## Available on
 * [BandCamp](https://adarowski.bandcamp.com/album/existential-crisis-songs) *(streaming or pay-what-you-want download)*
@@ -39,3 +39,9 @@ Over the last couple years, I’ve been watching the calendar. I didn’t want a
 ## What’s next?
 
 I’m not sure yet. I’d like to keep going. Will another EP follow? Will these three songs eventually make it on a full-length album? We’ll see. Thanks for listening.
+
+### Update
+
+Here’s what I’ve released since this post was published…
+
+* [“So Now What?”](https://adarowski.bandcamp.com/track/so-now-what) (April 7, 2015)

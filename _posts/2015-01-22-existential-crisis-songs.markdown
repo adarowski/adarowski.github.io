@@ -45,3 +45,4 @@ I’m not sure yet. I’d like to keep going. Will another EP follow? Will these
 Here’s what I’ve released since this post was published…
 
 * [“So Now What?”](https://adarowski.bandcamp.com/track/so-now-what) (April 7, 2015)
+* [“Go”](https://adarowski.bandcamp.com/track/go) (July 15, 2015)

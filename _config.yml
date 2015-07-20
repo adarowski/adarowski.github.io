@@ -1,7 +1,7 @@
 # Site settings
 title: Adam Darowski
 email: adarowski@gmail.com
-description: "I’m a husband and a daddy, a design engineer, and a baseball saberhistorian. I like to make things on the internet with nice people."
+description: "I’m a husband and a daddy, a product designer, and a baseball saberhistorian. I like to make things on the internet with nice people."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://darowski.com" # the base hostname & protocol for your site
 twitter_username: adarowski

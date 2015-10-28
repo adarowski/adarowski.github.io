@@ -10,13 +10,13 @@ On January 5, I released a three-song EP called *Existential Crisis Songs*.
 <iframe class="ecs-iframe" src="https://bandcamp.com/EmbeddedPlayer/album=1677567313/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://adarowski.bandcamp.com/album/existential-crisis-songs">Existential Crisis Songs by Adam Darowski</a></iframe>
 
 ## Available on
-* [BandCamp](https://adarowski.bandcamp.com/album/existential-crisis-songs) *(streaming or pay-what-you-want download)*
-* [Spotify](https://open.spotify.com/album/4HCB3cRZ65C3mMUNacSWQQ) *(streaming)*
-* [Rdio](https://www.rdio.com/artist/Adam_Darowski/album/Existential_Crisis_Songs/) *(streaming)*
-* [SoundCloud](https://soundcloud.com/adam-darowski/sets/existential-crisis-songs) *(streaming)*
-* [Amazon MP3](http://www.amazon.com/Existential-Crisis-Songs-Explicit-Darowski/dp/B00RZDPRVW/ref=sr_1_5?ie=UTF8&qid=1420773221&sr=8-5&keywords=adam+darowski) *($2.97)*
-* [iTunes](https://itunes.apple.com/us/album/existential-crisis-songs-single/id955536871) *($2.97)*
-* [Google Play](https://play.google.com/store/music/album/Adam_Darowski_Existential_Crisis_Songs?id=B42gbbmodgvzoh44m33e6xsnb24&hl=en) *($2.97)*
+* [BandCamp](https://adarowski.bandcamp.com/album/existential-crisis-songs)
+* [Spotify](https://open.spotify.com/album/4HCB3cRZ65C3mMUNacSWQQ)
+* [Rdio](https://www.rdio.com/artist/Adam_Darowski/album/Existential_Crisis_Songs/)
+* [SoundCloud](https://soundcloud.com/adam-darowski/sets/existential-crisis-songs)
+* [Amazon MP3](http://www.amazon.com/Existential-Crisis-Songs-Explicit-Darowski/dp/B00RZDPRVW/ref=sr_1_5?ie=UTF8&qid=1420773221&sr=8-5&keywords=adam+darowski)
+* [iTunes](https://itunes.apple.com/us/album/existential-crisis-songs-single/id955536871)
+* [Google Play](https://play.google.com/store/music/album/Adam_Darowski_Existential_Crisis_Songs?id=B42gbbmodgvzoh44m33e6xsnb24&hl=en)
 
 ## A little background
 
@@ -34,6 +34,6 @@ Over the last couple years, I’ve been watching the calendar. I didn’t want a
 
 I’m not sure yet. I’d like to keep going. Will another EP follow? Will these three songs eventually make it on a full-length album? We’ll see. Thanks for listening.
 
-### Update
+## Update
 
 I opted to go the full-length route. My new album *YAY!* comes out on November 2. You can pre-order it on [Bandcamp](https://adarowski.bandcamp.com/album/yay).

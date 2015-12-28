@@ -1,7 +1,7 @@
 ---
 layout:    article
 title:     My 25 Favorite Albums of 2015
-date:      2015-11-18 08:00:00
+date:      2015-12-18 08:00:00
 permalink: /25-favorite-albums-of-2015
 ---
 

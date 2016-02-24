@@ -166,9 +166,14 @@ Beyond that, we had tremendous records by so many bands listed above but also ma
 
 ## Playlist
 
-Here’s a playlist that includes albums mentioned in this post (except for Dig’s *Dig* and The Dambuilders’ *Ruby Red*—which are not on Spotify).
+Here’s a Spotify playlist that includes albums mentioned in this post (except for Dig’s *Dig* and The Dambuilders’ *Ruby Red*—which are not on Spotify).
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123427584%3Aplaylist%3A1GVH2wR5sYCERmjR4Mm1xV" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123427584%3Aplaylist%3A1GVH2wR5sYCERmjR4Mm1xV" width="300" height="380" frameborder="0" allowtransparency="true" style="margin-bottom: 20px;"></iframe>
+
+For completeness:
+
+* [“Believe” by Dig](https://www.youtube.com/watch?v=4nZRSc81-K0)
+* [“Teenage Loser Anthem” by The Dambuilders](https://www.youtube.com/watch?v=uc1gzruGfx4)
 
 ---
 

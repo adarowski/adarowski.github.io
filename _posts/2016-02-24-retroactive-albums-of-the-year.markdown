@@ -237,7 +237,7 @@ For many, many years I called Teenage Fanclub my favorite band in the world. Now
 * **Buffalo Tom** — *Smitten*
 * **Spoon** — *A Series of Sneaks*
 
-After a trio of stacked years, 1998 starts a stretch of very thin years (at least according to my musical taste). I didn’t discover *In the Aeroplane Over the Sea* until 2014, but I certainly caught myself up. There were ecellent releases from Buffalo Tom and Spoon, but not much else of note.
+After a trio of stacked years, 1998 starts a stretch of very thin years (at least according to my musical taste). I didn’t discover *In the Aeroplane Over the Sea* until 2014, but I certainly caught myself up. There were excellent releases from Buffalo Tom and Spoon, but not much else of note.
 
 ### 1998 Album of the Year
 
@@ -279,9 +279,10 @@ Again, quite a thin year. *The Man Who* was the first of a string of tremendous 
 
 * **Ashtray Babyhead** — *Radio*
 * **Idlewild** — *100 Broken Windows*
+* **Oasis** — *Standing on the Shoulder of Giants*
 * **OZMA** — *Rock And Roll Part Three*
 
-*And Then Nothing Turned Itself Inside-Out* isn’t my favorite Yo La Tengo record, but it honestly had very little competition. The releases from Ashtray Babyhead, Idlewild, and OZMA were quite good, but songs like “Saturday” and “Cherry Chapstick” make this an easy choice.
+*And Then Nothing Turned Itself Inside-Out* isn’t my favorite Yo La Tengo record, but it honestly had very little competition. The releases from Ashtray Babyhead, Idlewild, Oasis, and OZMA were quite good, but songs like “Saturday” and “Cherry Chapstick” make this an easy choice.
 
 ### 2000 Album of the Year
 

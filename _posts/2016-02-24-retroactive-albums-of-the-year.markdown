@@ -280,7 +280,7 @@ Again, quite a thin year. *The Man Who* was the first of a string of tremendous 
 * **Ashtray Babyhead** — *Radio*
 * **Idlewild** — *100 Broken Windows*
 * **Oasis** — *Standing on the Shoulder of Giants*
-* **OZMA** — *Rock And Roll Part Three*
+* **Ozma** — *Rock And Roll Part Three*
 
 *And Then Nothing Turned Itself Inside-Out* isn’t my favorite Yo La Tengo record, but it honestly had very little competition. The releases from Ashtray Babyhead, Idlewild, Oasis, and OZMA were quite good, but songs like “Saturday” and “Cherry Chapstick” make this an easy choice.
 
@@ -292,20 +292,149 @@ Again, quite a thin year. *The Man Who* was the first of a string of tremendous 
 
 ---
 
-## Playlist
+## 2001
 
-Here’s a Spotify playlist that includes albums mentioned in this post (except for Dig’s *Dig* and The Dambuilders’ *Ruby Red*—which are not on Spotify).
+### Album of the Year Contenders
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123427584%3Aplaylist%3A1GVH2wR5sYCERmjR4Mm1xV" width="300" height="380" frameborder="0" allowtransparency="true" style="margin-bottom: 20px;"></iframe>
+* **Mogwai** — *Rock Action*
+* **Travis** — *The Invisible Band*
 
-For completeness:
+### Other Exceptional Albums
 
-* [“Believe” by Dig](https://www.youtube.com/watch?v=4nZRSc81-K0)
-* [“Teenage Loser Anthem” by The Dambuilders](https://www.youtube.com/watch?v=uc1gzruGfx4)
-* [“Who’s Side You On?” by Dig](https://www.youtube.com/watch?v=eulyFfkg5Z0)
-* [“This is My Hollywood” by 3 Colours Red](https://www.youtube.com/watch?v=oMM8sGu7QOY)
-* [“Mir” and ”I’ll Do Anything” by Ashtray Babyhead](https://www.youtube.com/watch?v=2RGa-_3OJ3M)
+* **Aereogramme** — *A Story in White*
+* **Ash** — *Free All Angels*
+* **Ozma** — *The Doubble Donkey Disc*
+* **Spoon** — *Girls Can Tell*
+* **The Appleseed Cast** — *Low Level Owl: Volume I & II*
+* **Trembling Blue Stars** — *Alive To Every Smile*
+* **Weezer** — *Weezer (Green Album)*
+
+*Rock Action* might be my favorite Mogwai album—which is saying a lot since there are so many to choose from. Travis also returned with another tremendous record (the single “Sing”, among others, was a big deal to me). 2001 is a bit deeper than the previous three years as Weezer also came back with a solid record (even if not on par with the previous two) and The Appleseed Cast released their two *Low Level Owl* records (which I’m counting here as one even though they were released separately).
+
+### 2001 Album of the Year
+
+* **Mogwai** — *Rock Action*
+
+<img src="/assets/albums/rock-action.jpg" alt="Rock Action" width="200" />
 
 ---
 
-**Coming soon:** 2001 to 2005 *(to be updated here)*.
+## 2002
+
+### Album of the Year Contenders
+
+* **The Flaming Lips** — *Yoshimi Battles The Pink Robots*
+
+### Other Exceptional Albums
+
+* **Doves** — *The Last Broadcast*
+* **Idlewild** — *The Remote Part*
+* **Interpol** — *Turn on the Bright Lights*
+* **Iron & Wine** — *The Creek Drank the Cradle*
+
+I didn’t listen to *Yoshimi* until a few years after it came out, but that was a mistake–it’s a classic. Interpol’s *Turn on the Bright Lights* and Iron & Wine’s *The Creek Drank the Cradle* were both incredible debuts that remain my favorite albums by the artists. The UK’s Doves and Idlewild also had impressive and memorable records.
+
+### 2002 Album of the Year
+
+* **The Flaming Lips** — *Yoshimi Battles The Pink Robots*
+
+<img src="/assets/albums/yoshimi.jpg" alt="Yoshimi Battles The Pink Robots" width="200" />
+
+---
+
+## 2003
+
+### Album of the Year Contenders
+
+* **Mew** — *Frengers*
+* **Mogwai** — *Happy Songs for Happy People*
+* **The Postal Service** — *Give Up*
+
+### Other Exceptional Albums
+
+* **Fountains of Wayne** — *Welcome Interstate Managers*
+* **Travis** — *12 Memories*
+* **Yo La Tengo** — *Summer Sun*
+
+### Other Notable Releases
+
+* **Arcade Fire** — *Arcade Fire*
+* **Yo La Tengo** — *Today Is The Day*
+
+This year was also bit deeper with The Postal Service’s lone album *Give Up*, Mogwai’s relatively tame (but still incredible) *Happy Songs for Happy People*, and Mew’s dynamic *Frengers* leading the charge. Picking one for Album of the Year was very difficult and my choice is subject to change. Yo La Tengo released one of their better records and also put out the *Today is The Day* EP (with a magnificent reworking of the title track) while Arcade Fire burst onto the scene with their debut EP.
+
+### 2003 Album of the Year
+
+* **The Postal Service** — *Give Up*
+
+<img src="/assets/albums/give-up.jpg" alt="Give Up" width="200" />
+
+---
+
+## 2004
+
+### Album of the Year Contenders
+
+* **Arcade Fire** — *Funeral*
+
+### Other Exceptional Albums
+
+* **Ash** — *Meltdown*
+* **Modest Mouse** — *Good News For People Who Love Bad News*
+* **The Killers** — *Hot Fuss*
+
+I remember when I first stumbled upon *Funeral* in a co-worker’s shared iTunes library. I had never heard anything like it. It remains one of the best records I’ve ever heard. Ash’s *Meltdown* was very underrated—lots of hooks combined with gratutious wah-wah pedals.
+
+### 2004 Album of the Year
+
+* **Arcade Fire** — *Funeral*
+
+<img src="/assets/albums/funeral.jpg" alt="Funeral" width="200" />
+
+---
+
+## 2005
+
+### Album of the Year Contenders
+
+* *None*
+
+### Other Exceptional Albums
+
+* **Idlewild** — *Warnings/Promises*
+* **Statistics** — *Often Lie*
+
+### Other Notable Releases
+
+* **MGMT** — *Time To Pretend*
+* **Silversun Pickups** — *Pikul*
+
+This is the only year I don’t believe any record was on the typical “Album of the Year” level. I’ll pick one, but it won’t be on par with many records that missed out on the honor. Despite this caveat, Idlewild’s *Warnings/Promises* was a brilliant record. I have a surreal connection with the track “Too Long Awake.” The debut EPs by MGMT and Silversun Pickups were early signs of great things to come. There were a few albums that nearly made this list. The National, Death Cab for Cutie, The Decemberists, El Ten Eleven, and Doves got quite a bit of airplay from me, but not quite enough for a list like this. Half the people reading this will suggest Okkervil River’s *Black Sheep Boy*, but sadly that one passed me by and I never backtracked.
+
+### 2005 Album of the Year
+
+* **Idlewild** — *Warnings/Promises*
+
+<img src="/assets/albums/warnings-promises.jpg" alt="Warnings/Promises" width="200" />
+
+---
+
+## Playlist
+
+This Spotify playlist includes all full-length albums mentioned in this post (except for those not on Spotify).
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123427584%3Aplaylist%3A1GVH2wR5sYCERmjR4Mm1xV" width="300" height="380" frameborder="0" allowtransparency="true" style="margin-bottom: 20px;"></iframe>
+
+For completeness, here are the tracks not on Spotify (YouTube links):
+
+* [“Believe” by Dig](https://www.youtube.com/watch?v=4nZRSc81-K0) (1993)
+* [“Teenage Loser Anthem” by The Dambuilders](https://www.youtube.com/watch?v=uc1gzruGfx4) (1995)
+* [“Who’s Side You On?” by Dig](https://www.youtube.com/watch?v=eulyFfkg5Z0) (1996)
+* [“This is My Hollywood” by 3 Colours Red](https://www.youtube.com/watch?v=oMM8sGu7QOY) (1997)
+* [“Mir” and ”I’ll Do Anything” by Ashtray Babyhead](https://www.youtube.com/watch?v=2RGa-_3OJ3M) (2000)
+* [“Post-Tour, Pre-Judgement” by Aereogramme](https://www.youtube.com/watch?v=o-IkHAS0BAE) (2001)
+* [“Flight of the Bootymaster” by OZMA](https://www.youtube.com/watch?v=NucPLWhAwwQ) (2001)
+
+---
+
+**Coming soon:** 2006 to 2010 *(to be updated here)*.

@@ -517,7 +517,11 @@ Another year with just one record, and this one gets an Album of the Year nod by
 * **The Naked and Famous** — *Passive Me, Aggressive You*
 * **The National** — *High Violet*
 
-Even in refreshingly deep year, Arcade Fire take their third Album of the Year. They faced competition from Iron Chic’s debut and the only album from an unknown band called Mussels (look them up—they were incredible). The year was also marked by Surfer Blood’s debut and one of the few albums that Erin (my wife) and I agree on—*Passive Me, Aggressive You* by The Naked and Famous.
+### Other Notable Releases
+
+* **Mogwai** – *Special Moves*
+
+Even in refreshingly deep year, Arcade Fire take their third Album of the Year. They faced competition from Iron Chic’s debut and the only album from an unknown band called Mussels (look them up—they were incredible). The year was also marked by Surfer Blood’s debut and one of the few albums that Erin (my wife) and I agree on—*Passive Me, Aggressive You* by The Naked and Famous. The only reason I don’t consider Mogwai’s *Special Moves* to the the greatest album ever recorded is the fact that I don’t think live albums should be eligible.
 
 ### 2010 Album of the Year
 

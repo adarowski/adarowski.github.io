@@ -279,10 +279,9 @@ Again, quite a thin year. *The Man Who* was the first of a string of tremendous 
 
 * **Ashtray Babyhead** — *Radio*
 * **Idlewild** — *100 Broken Windows*
-* **Oasis** — *Standing on the Shoulder of Giants*
 * **Ozma** — *Rock And Roll Part Three*
 
-*And Then Nothing Turned Itself Inside-Out* isn’t my favorite Yo La Tengo record, but it honestly had very little competition. The releases from Ashtray Babyhead, Idlewild, Oasis, and OZMA were quite good, but songs like “Saturday” and “Cherry Chapstick” make this an easy choice.
+*And Then Nothing Turned Itself Inside-Out* isn’t my favorite Yo La Tengo record, but it honestly had very little competition. The releases from Ashtray Babyhead, Idlewild, and OZMA were quite good, but songs like “Saturday” and “Cherry Chapstick” make this an easy choice.
 
 ### 2000 Album of the Year
 
@@ -409,13 +408,122 @@ I remember when I first stumbled upon *Funeral* in a co-worker’s shared iTunes
 * **MGMT** — *Time To Pretend*
 * **Silversun Pickups** — *Pikul*
 
-This is the only year I don’t believe any record was on the typical “Album of the Year” level. I’ll pick one, but it won’t be on par with many records that missed out on the honor. Despite this caveat, Idlewild’s *Warnings/Promises* was a brilliant record. I have a surreal connection with the track “Too Long Awake.” The debut EPs by MGMT and Silversun Pickups were early signs of great things to come. There were a few albums that nearly made this list. The National, Death Cab for Cutie, The Decemberists, El Ten Eleven, and Doves got quite a bit of airplay from me, but not quite enough for a list like this. Half the people reading this will suggest Okkervil River’s *Black Sheep Boy*, but sadly that one passed me by and I never backtracked.
+This is the first year I don’t believe any record was on the typical “Album of the Year” level. I’ll pick one, but it won’t be on par with many records that missed out on the honor. Despite this caveat, Idlewild’s *Warnings/Promises* was a brilliant record. I have a surreal connection with the track “Too Long Awake.” The debut EPs by MGMT and Silversun Pickups were early signs of great things to come. There were a few albums that nearly made this list. The National, Death Cab for Cutie, The Decemberists, El Ten Eleven, and Doves got quite a bit of airplay from me, but not quite enough for a list like this. Half the people reading this will suggest Okkervil River’s *Black Sheep Boy*, but sadly that one passed me by and I never backtracked.
 
 ### 2005 Album of the Year
 
 * **Idlewild** — *Warnings/Promises*
 
 <img src="/assets/albums/warnings-promises.jpg" alt="Warnings/Promises" width="200" />
+
+---
+
+## 2006
+
+### Album of the Year Contenders
+
+* **Mogwai** — *Mr. Beast*
+
+### Other Exceptional Albums
+
+* **Silversun Pickups** — *Carnavas*
+
+There were many albums this year I listened to a lot at the time—like records from Band of Horses, The Decemberists, and Casiotone for the Painfully Alone. But they didn’t quite make the cut, making this another thin year. Mogwai’s *Mr. Beast* is among their best and most cohesive albums from start to finish while Silversun Pickups full-length debut brought back fond memories of *Siamese Dream*.
+
+### 2006 Album of the Year
+
+* **Mogwai** — *Mr. Beast*
+
+<img src="/assets/albums/mr-beast.jpg" alt="Mr. Beast" width="200" />
+
+---
+
+## 2007
+
+### Album of the Year Contenders
+
+* **Arcade Fire** — *Neon Bible*
+
+### Other Exceptional Albums
+
+* **MGMT** — *Oracular Spectacular*
+* **Rogue Wave** — *Asleep At Heaven’s Gate*
+* **The Apples In Stereo** — *New Magnetic Wonder*
+* **The National** — *Boxer*
+* **Travis** — *The Boy With No Name*
+
+Quite a bit to choose from here. Arcade Fire picks up another Album of the Year while MGMT’s full-length debut may have been my choice at the time. Travis and Rogue Wave resonated immediately with me while it too much longer for me to find The National and (even more so) The Apples in Stereo.
+
+### 2007 Album of the Year
+
+* **Arcade Fire** — *Neon Bible*
+
+<img src="/assets/albums/neon-bible.png" alt="Neon Bible" width="200" />
+
+---
+
+## 2008
+
+### Album of the Year Contenders
+
+* **Mogwai** — *The Hawk is Howling*
+
+### Other Exceptional Albums
+
+*None*
+
+One record. I listened a lot to the Airborne Toxic Event and Death Cab for Cutie that year, but it was only Mogwai who stood the test of time (a trend for this decade). For those keeping count, this is already Mogwai’s third Album of the Year.
+
+### 2008 Album of the Year
+
+* **Mogwai** — *The Hawk is Howling*
+
+<img src="/assets/albums/the-hawk-is-howling.jpg" alt="The Hawk is Howling" width="200" />
+
+---
+
+## 2009
+
+### Album of the Year Contenders
+
+*None*
+
+### Other Exceptional Albums
+
+* **Manchester Orchestra** — *Mean Everything To Nothing*
+
+Another year with just one record, and this one gets an Album of the Year nod by default for lack of competition. It was a great record (or about 70% of it was), but it’s not on par with the other choices here. Other highlights that didn’t quite make the cut include Edward Sharpe & The Magnetic Zeros, the Wandas, Doves, and Passion Pit.
+
+### 2009 Album of the Year
+
+* **Manchester Orchestra** — *Mean Everything To Nothing*
+
+<img src="/assets/albums/mean-everything-to-nothing.jpg" alt="Mean Everything To Nothing" width="200" />
+
+---
+
+## 2010
+
+### Album of the Year Contenders
+
+* **Arcade Fire** — *The Suburbs*
+* **Iron Chic** — *Not Like This*
+* **Mussels** — *When We Had Nothing*
+
+### Other Exceptional Albums
+
+* **Rogue Wave** — *Permalight*
+* **Surfer Blood** — *Astro Coast*
+* **The Naked and Famous** — *Passive Me, Aggressive You*
+* **The National** — *High Violet*
+
+Even in refreshingly deep year, Arcade Fire take their third Album of the Year. They faced competition from Iron Chic’s debut and the only album from an unknown band called Mussels (look them up—they were incredible). The year was also marked by Surfer Blood’s debut and one of the few albums that Erin (my wife) and I agree on—*Passive Me, Aggressive You* by The Naked and Famous.
+
+### 2010 Album of the Year
+
+* **Arcade Fire** — *The Suburbs*
+
+<img src="/assets/albums/the-suburbs.jpg" alt="The Suburbs" width="200" />
 
 ---
 
@@ -434,7 +542,8 @@ For completeness, here are the tracks not on Spotify (YouTube links):
 * [“Mir” and ”I’ll Do Anything” by Ashtray Babyhead](https://www.youtube.com/watch?v=2RGa-_3OJ3M) (2000)
 * [“Post-Tour, Pre-Judgement” by Aereogramme](https://www.youtube.com/watch?v=o-IkHAS0BAE) (2001)
 * [“Flight of the Bootymaster” by OZMA](https://www.youtube.com/watch?v=NucPLWhAwwQ) (2001)
+* [“Date with the Devil” by Mussels](https://mussels.bandcamp.com/track/date-with-the-devil) (2010)
 
 ---
 
-**Coming soon:** 2006 to 2010 *(to be updated here)*.
+**Coming soon:** 2011 to 2015 *(to be updated here)*.

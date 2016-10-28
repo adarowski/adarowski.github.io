@@ -519,7 +519,7 @@ Another year with just one record, and this one gets an Album of the Year nod by
 
 ### Other Notable Releases
 
-* **Mogwai** – *Special Moves*
+* **Mogwai** — *Special Moves*
 
 Even in refreshingly deep year, Arcade Fire take their third Album of the Year. They faced competition from Iron Chic’s debut and the only album from an unknown band called Mussels (look them up—they were incredible). The year was also marked by Surfer Blood’s debut and one of the few albums that Erin (my wife) and I agree on—*Passive Me, Aggressive You* by The Naked and Famous. The only reason I don’t consider Mogwai’s *Special Moves* to the the greatest album ever recorded is the fact that I don’t think live albums should be eligible.
 
@@ -528,6 +528,141 @@ Even in refreshingly deep year, Arcade Fire take their third Album of the Year. 
 * **Arcade Fire** — *The Suburbs*
 
 <img src="/assets/albums/the-suburbs.jpg" alt="The Suburbs" width="200" />
+
+---
+
+## 2011
+
+### Album of the Year Contenders
+
+* **Mike Krol** — *I Hate Jazz*
+* **Mogwai** — *Hardcore Will Never Die, But You Will*
+
+### Other Exceptional Albums
+
+* **Grouplove** — *Never Trust A Happy Song*
+* **The Pains of Being Pure At Heart** — *Belong*
+
+### Other Notable Releases
+
+* **Surfer Blood** — *Tarot Classics EP*
+
+I didn’t find Mike Krol until late 2014, but his self-produced debut album was the first to grab me. Mogwai’s *Hardcore Will Never Die, But You Will* is the most recent Album of the Year contender from a long and fruitful career. Grouplove’s debut was also a shot in the arm.
+
+### 2011 Album of the Year
+
+* **Mike Krol** — *I Hate Jazz*
+
+<img src="/assets/albums/ihatejazz.jpg" alt="I Hate Jazz" width="200" />
+
+---
+
+## 2012
+
+### Album of the Year Contenders
+
+* **The Babies** — *Our House on the Hill*
+
+### Other Exceptional Albums
+
+* **Audacity** — *Mellow Cruisers*
+* **Macklemore & Ryan Lewis** — *The Heist*
+* **Paws** — *Cokefloat!*
+
+I think I can trace my recent love of garage rock to *Our House on the Hill* by The Babies. Finding that album was something of a revelation to me and in many ways it steered me toward what I’m listening to today. Macklemore is not something I usually gravatate to, but *The Heist* was a remarkable achievement and it got a lot of airplay from me that year.
+
+### 2012 Album of the Year
+
+* **The Babies** — *Our House on the Hill*
+
+<img src="/assets/albums/ourhouse.jpg" alt="Our House on the Hill" width="200" />
+
+---
+
+## 2013
+
+### Album of the Year Contenders
+
+* **Iron Chic** — *The Constant One*
+* **Mike Krol** — *Trust Fund*
+* **Ovlov** — *Am*
+* **Speedy Ortiz** — *Major Arcana*
+* **Surfer Blood** — *Pythons*
+
+### Other Exceptional Albums
+
+* **Dog Party** — *Lost Control*
+* **Grouplove** — *Spreading Rumours*
+* **Travis** — *Where You Stand*
+
+2013 was the start of a renaissance with tremendous records from Iron Chic, Mike Krol, Ovlov, Speedy Ortiz, and Surfer Blood all potential Albums of the Year. In fact, *The Constant One* might just be the best record since the 1990s.
+
+### 2013 Album of the Year
+
+* **Iron Chic** — *The Constant One*
+
+<img src="/assets/albums/theconstantone.jpg" alt="The Constant One" width="200" />
+
+---
+
+## 2014
+
+### Album of the Year Contenders
+
+* **Left & Right** — *Five Year Plan*
+* **LVL UP** — *Hoodwink’d*
+* **PUP** — *PUP*
+
+### Other Exceptional Albums
+
+* **Happy Diving** — *Big World*
+* **Hurry** — *Everything/Nothing*
+* **together PANGEA** — *Badillac*
+
+### Other Notable Releases
+
+* **All Dogs** — *All Dogs - EP*
+* **Beach Slang** — *Cheap Thrills on a Dead End Street*
+* **Beach Slang** — *Who Would Ever Want Anything So Broken?*
+* **Speedy Ortiz** — *Real Hair*
+
+2014 was all about newcomers. PUP’s debut was the best record of the year, but Left & Right and LVL UP were also complete unknowns to me. The same can be said for every other artist in this entry. While PUP had the album of the year, it was definitely the year that Beach Slang had the most impact. EPs are not eligible for my Album of the Year nod. But if those two Beach Slang EPs were instead an 8-song record, it would be number one.
+
+### 2014 Album of the Year
+
+* **PUP** — *PUP*
+
+<img src="/assets/albums/pup.jpg" alt="PUP" width="200" />
+
+---
+
+## 2015
+
+### Album of the Year Contenders
+
+* **Beach Slang** — *The Things We Do To Find People Who Feel Like Us*
+* **Mike Krol** — *Turkey*
+* **War Waves** — *War Waves*
+
+### Other Exceptional Albums
+
+* **Choke Up** — *Black Coffee, Bad Habits*
+* **Jeff Rosenstock** — *We Cool?*
+* **Stove** — *is stupider*
+* **Worriers** — *Imaginary Life*
+
+### Other Notable Releases
+
+* **Potty Mouth** - *Potty Mouth EP*
+* **ROMP** - *Sorry, Not Sorry*
+
+Beach Slang didn’t have to wait long to get a proper Album of the Year nod. Mike Krol barely missed out, even though *Turkey* might be his best record so far. War Waves is a very much unknown band from the UK who happened to follow me on Twitter one day. I listened and I was hooked. This was also a deep year with Choke Up, Jeff Rosenstock, and others producting tremendous records.
+
+### 2015 Album of the Year
+
+* **Beach Slang** — *The Things We Do To Find People Who Feel Like Us*
+
+<img src="/assets/albums/thethings.jpg" alt="The Things We Do To Find People Who Feel Like Us" width="200" />
 
 ---
 
@@ -547,7 +682,3 @@ For completeness, here are the tracks not on Spotify (YouTube links):
 * [“Post-Tour, Pre-Judgement” by Aereogramme](https://www.youtube.com/watch?v=o-IkHAS0BAE) (2001)
 * [“Flight of the Bootymaster” by OZMA](https://www.youtube.com/watch?v=NucPLWhAwwQ) (2001)
 * [“Date with the Devil” by Mussels](https://mussels.bandcamp.com/track/date-with-the-devil) (2010)
-
----
-
-**Coming soon:** 2011 to 2015 *(to be updated here)*.

@@ -35,4 +35,4 @@ I’m not sure yet. I’d like to keep going. Will another EP follow? Will these
 
 ## Update
 
-I opted to go the full-length route. My new album *YAY!* comes out on November 2. You can pre-order it on [Bandcamp](https://adarowski.bandcamp.com/album/yay).
+I opted to go the full-length route. My new album [*YAY!*](/yay) came out on November 2, 2016.

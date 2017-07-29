@@ -82,7 +82,6 @@ Nirvana shook my music world in 1991, but it took a little while for everyone to
 * **Radiohead** — *Pablo Honey*
 * **Teenage Fanclub** — *Thirteen*
 * **The Breeders** — *Last Splash*
-* **The Juliana Hatfield Three** — *Become What You Are*
 * **The Posies** — *Frosting On The Beater*
 
 What a year this was. It featured the second full-length releases by Nirvana, Pearl Jam, Smashing Pumpkins—and honestly, each exceeds the first (I even find myself listening to *In Utero* more than *Nevermind* these days). *Come on Feel the Lemonheads* was also a step up for Evan Dando. I didn’t discover *Icky Mettle* until almost 20 years after its release, but I’ve made up for lost time. 
@@ -147,10 +146,6 @@ I vividly remember being at my younger brother’s fifth birthday party at Fanta
 * **The Dambuilders** — *Ruby Red*
 * **The Rentals** — *Return of the Rentals*
 * **Oasis** — *What's the Story (Morning Glory?)*
-
-### Other Notable Releases
-
-* **Teenage Fanclub** — *Teenage Fanclub Have Lost It* (EP)
 
 This was another incredible year. *The Bends* was a perfect rock record—and I’m still mad at Radiohead for abandoning such a perfect sound. *Electr-o-pura* is probably Yo La Tengo’s greatest record—from a career with many great records. *Grand Prix* is when Teenage Fanclub really hit their stride. *A.M.* is Wilco’s first (and perhaps their greatest).
 
@@ -355,12 +350,7 @@ I didn’t listen to *Yoshimi* until a few years after it came out, but that was
 * **Travis** — *12 Memories*
 * **Yo La Tengo** — *Summer Sun*
 
-### Other Notable Releases
-
-* **Arcade Fire** — *Arcade Fire*
-* **Yo La Tengo** — *Today Is The Day*
-
-This year was also bit deeper with The Postal Service’s lone album *Give Up*, Mogwai’s relatively tame (but still incredible) *Happy Songs for Happy People*, and Mew’s dynamic *Frengers* leading the charge. Picking one for Album of the Year was very difficult and my choice is subject to change. Yo La Tengo released one of their better records and also put out the *Today is The Day* EP (with a magnificent reworking of the title track) while Arcade Fire burst onto the scene with their debut EP.
+This year was also bit deeper with The Postal Service’s lone album *Give Up*, Mogwai’s relatively tame (but still incredible) *Happy Songs for Happy People*, and Mew’s dynamic *Frengers* leading the charge. Picking one for Album of the Year was very difficult and my choice is subject to change. Yo La Tengo released one of their better records and also put out the *Today is The Day* EP (with a magnificent reworking of the title track).
 
 ### 2003 Album of the Year
 
@@ -405,10 +395,9 @@ I remember when I first stumbled upon *Funeral* in a co-worker’s shared iTunes
 
 ### Other Notable Releases
 
-* **MGMT** — *Time To Pretend*
 * **Silversun Pickups** — *Pikul*
 
-This is the first year I don’t believe any record was on the typical “Album of the Year” level. I’ll pick one, but it won’t be on par with many records that missed out on the honor. Despite this caveat, Idlewild’s *Warnings/Promises* was a brilliant record. I have a surreal connection with the track “Too Long Awake.” The debut EPs by MGMT and Silversun Pickups were early signs of great things to come. There were a few albums that nearly made this list. The National, Death Cab for Cutie, The Decemberists, El Ten Eleven, and Doves got quite a bit of airplay from me, but not quite enough for a list like this. Half the people reading this will suggest Okkervil River’s *Black Sheep Boy*, but sadly that one passed me by and I never backtracked.
+This is the first year I don’t believe any record was on the typical “Album of the Year” level. I’ll pick one, but it won’t be on par with many records that missed out on the honor. Despite this caveat, Idlewild’s *Warnings/Promises* was a brilliant record. I have a surreal connection with the track “Too Long Awake.” There were a few albums that nearly made this list. The National, Death Cab for Cutie, The Decemberists, El Ten Eleven, and Doves got quite a bit of airplay from me, but not quite enough for a list like this. Half the people reading this will suggest Okkervil River’s *Black Sheep Boy*, but sadly that one passed me by and I never backtracked.
 
 ### 2005 Album of the Year
 
@@ -541,7 +530,6 @@ Even in refreshingly deep year, Arcade Fire take their third Album of the Year. 
 ### Other Exceptional Albums
 
 * **Grouplove** — *Never Trust A Happy Song*
-* **The Pains of Being Pure At Heart** — *Belong*
 
 ### Other Notable Releases
 
@@ -621,7 +609,6 @@ I think I can trace my recent love of garage rock to *Our House on the Hill* by 
 
 ### Other Notable Releases
 
-* **All Dogs** — *All Dogs - EP*
 * **Beach Slang** — *Cheap Thrills on a Dead End Street*
 * **Beach Slang** — *Who Would Ever Want Anything So Broken?*
 * **Speedy Ortiz** — *Real Hair*
@@ -654,7 +641,6 @@ I think I can trace my recent love of garage rock to *Our House on the Hill* by 
 ### Other Notable Releases
 
 * **Potty Mouth** - *Potty Mouth EP*
-* **ROMP** - *Sorry, Not Sorry*
 
 Beach Slang didn’t have to wait long to get a proper Album of the Year nod. Mike Krol barely missed out, even though *Turkey* might be his best record so far. War Waves is a very much unknown band from the UK who happened to follow me on Twitter one day. I listened and I was hooked. This was also a deep year with Choke Up, Jeff Rosenstock, and others producting tremendous records.
 
@@ -663,6 +649,34 @@ Beach Slang didn’t have to wait long to get a proper Album of the Year nod. Mi
 * **Beach Slang** — *The Things We Do To Find People Who Feel Like Us*
 
 <img src="/assets/albums/thethings.jpg" alt="The Things We Do To Find People Who Feel Like Us" width="200" />
+
+---
+
+## 2016
+
+### Album of the Year Contenders
+
+* **PUP** — *The Dream Is Over*
+* **War Waves** — *All That We Lack*
+* **Beach Slang** — *A Loud Bash of Teenage Feelings*
+* **LVL UP** — *Return to Love*
+
+### Other Exceptional Albums
+
+* **Grouplove** — *Big Mess*
+* **Pkew Pkew Pkew** — *Pkew Pkew Pkew Pkew*
+
+### Other Notable Releases
+
+* **Black Surf** - *Let’s Pretend It’s Summer (Deluxe Edition)*
+
+This was a very deep year with many bands coming back quickly with more excellent records. PUP followed up on 2014’s Album of the Year with an Album of the Decade contender. Beach Slang and War Waves put up incredible albums in back-to-back years while LVL UP quite literally leveled up with thier Sub Pop debut. Black Surf released a remarkable EP that they later expanded into a “Deluxe Edition” that was even longer than a typical full-length. However you want to categorize it, it was lovely.
+
+### 2016 Album of the Year
+
+* **PUP** — *The Dream Is Over*
+
+<img src="/assets/albums/thedream.jpg" alt="The Dream Is Over" width="200" />
 
 ---
 

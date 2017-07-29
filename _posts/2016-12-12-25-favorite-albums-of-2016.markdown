@@ -42,7 +42,7 @@ Here are my favorite albums (and EPs) of the year.
 1. **Left & Right** – *The Yips*
 1. **Happy Diving** – *Electric Soul Unity*
 1. **Paws** – *No Grace*
-1. **Pkew Pkew Pkew Pkew** – *Pkew Pkew Pkew Pkew*
+1. **Pkew Pkew Pkew** – *Pkew Pkew Pkew*
 1. **Jeff Rosenstock** – *Worry*
 1. **Hurry** – *Guided Meditation*
 1. **Mannequin Pussy** – *Romantic*

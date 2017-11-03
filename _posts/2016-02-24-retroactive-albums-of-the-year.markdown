@@ -579,8 +579,8 @@ I think I can trace my recent love of garage rock to *Our House on the Hill* by 
 
 ### Other Exceptional Albums
 
-* **Dog Party** — *Lost Control*
 * **Grouplove** — *Spreading Rumours*
+* **Mansions** — *Doom Loop*
 * **Travis** — *Where You Stand*
 
 2013 was the start of a renaissance with tremendous records from Iron Chic, Mike Krol, Ovlov, Speedy Ortiz, and Surfer Blood all potential Albums of the Year. In fact, *The Constant One* might just be the best record since the 1990s.
@@ -642,7 +642,7 @@ I think I can trace my recent love of garage rock to *Our House on the Hill* by 
 
 * **Potty Mouth** - *Potty Mouth EP*
 
-Beach Slang didn’t have to wait long to get a proper Album of the Year nod. Mike Krol barely missed out, even though *Turkey* might be his best record so far. War Waves is a very much unknown band from the UK who happened to follow me on Twitter one day. I listened and I was hooked. This was also a deep year with Choke Up, Jeff Rosenstock, and others producting tremendous records.
+Beach Slang didn’t have to wait long to get a proper Album of the Year nod. Mike Krol barely missed out, even though *Turkey* might be his best record so far. War Waves is a very much unknown band from the UK who happened to follow me on Twitter one day. I listened and I was hooked. This was also a deep year with Choke Up, Jeff Rosenstock, and others producing tremendous records.
 
 ### 2015 Album of the Year
 

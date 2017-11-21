@@ -38,7 +38,6 @@ header, section, article
   padding-right: 20px
 
 a
-  text-decoration: none
   &:link, &:visited
     color: darken(blue, 15%)
   &:hover, &:active, a:focus
@@ -86,8 +85,10 @@ h1, h2, h3, h4, h5
 h1
   font-size: 48px
   margin: 0
-  a:link, a:visited, a:hover, a:active
-    color: black
+  body#home &
+    a:link, a:visited, a:hover, a:active
+      color: black
+      text-decoration: none
   &.article-title
     margin-bottom: 10px
   #about &
@@ -193,9 +194,13 @@ sup
     color: #666
     &.social
       color: #999
+      a
+        text-decoration: none
 
 #articles
   padding-bottom: 120px
+  a
+    text-decoration: none
 
 .article-list
   color: #666

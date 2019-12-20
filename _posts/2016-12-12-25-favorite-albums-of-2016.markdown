@@ -58,7 +58,7 @@ Here are my favorite albums (and EPs) of the year.
 
 ## Top 10 EPs
 
-1. **Black Surf** – *Sink*
+1. **Black Surf** – *Let’s Pretend It’s Summer*
 1. **Old Fox Road** – *Moving Out*
 1. **Notches** – *Change My Mind*
 1. **Tender Defender** – *Tender Defender*

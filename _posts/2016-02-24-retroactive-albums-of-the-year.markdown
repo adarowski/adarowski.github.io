@@ -84,7 +84,7 @@ Nirvana shook my music world in 1991, but it took a little while for everyone to
 * **The Breeders** — *Last Splash*
 * **The Posies** — *Frosting On The Beater*
 
-What a year this was. It featured the second full-length releases by Nirvana, Pearl Jam, Smashing Pumpkins—and honestly, each exceeds the first (I even find myself listening to *In Utero* more than *Nevermind* these days). *Come on Feel the Lemonheads* was also a step up for Evan Dando. I didn’t discover *Icky Mettle* until almost 20 years after its release, but I’ve made up for lost time. 
+What a year this was. It featured the second full-length releases by Nirvana, Pearl Jam, Smashing Pumpkins—and honestly, each exceeds the first (I even find myself listening to *In Utero* more than *Nevermind* these days). *Come on Feel the Lemonheads* was also a step up for Evan Dando. I didn’t discover *Icky Mettle* until almost 20 years after its release, but I’ve made up for lost time.
 
 *Dig* and *Pablo Honey* were magnificent debuts while *Last Splash* was a huge breakout. Juliana Hatfield wasn’t with the Lemonheads this time around (she played bass on the *It’s a Shame About Ray* album), but instead released an excellent record of her own. Teenage Fanclub, meanwhile, gave us a solid record that came right before their magnificent peak. This list could have gone on with other excellent releases by Belly, Buffalo Tom, Uncle Tupelo, and Yo La Tengo. A banner year indeed.
 
@@ -664,7 +664,7 @@ Beach Slang didn’t have to wait long to get a proper Album of the Year nod. Mi
 ### Other Exceptional Albums
 
 * **Grouplove** — *Big Mess*
-* **Pkew Pkew Pkew** — *Pkew Pkew Pkew Pkew*
+* **Pkew Pkew Pkew** — *Pkew Pkew Pkew*
 
 ### Other Notable Releases
 

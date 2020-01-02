@@ -26,7 +26,7 @@ Simply put, these are my favorite albums of the 2010–2019 decade (you can argu
 1. **Arcade Fire** – *The Suburbs* (2010)
 1. **Lorde** – *Melodrama* (2017)
 1. **Mogwai** – *Hardcore Will Never Die, But You Will* (2011)
-1. **Pkew Pkew Pkew** – *Pkew Pkew Pkew Pkew* (2016)
+1. **Pkew Pkew Pkew** – *Pkew Pkew Pkew* (2016)
 1. **Jeff Rosenstock** – *We Cool?* (2015)
 1. **Great Grandpa** – *Four of Arrows* (2019)
 1. **Ovlov** – *Am* (2013)

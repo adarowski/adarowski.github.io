@@ -17,6 +17,14 @@ Here are my recent podcast appearances in one handy list. Always happy to chat a
 
 You schedule a time to chat, you can contact me on Twitter at [@baseballtwit](http://twitter.com/baseballtwit) (DMs are open) or via email at adarowski *AT* gmail.
 
+## Yellow Wall Pod
+
+**March 8, 2021:** Episode 366: Preview of Dortmund vs. Sevilla
+
+> Borussia Dortmund once again lost against Bayern Munich. Can they regroup and seal the Champions League quarterfinal against Sevilla?
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2ROV82SYsnmhxCoWcHNUj1" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## Baseball Beyond Batting Average
 
 **March 6, 2021:** 72 - Adam Darowski

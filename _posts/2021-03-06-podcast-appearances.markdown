@@ -15,7 +15,15 @@ Here are my recent podcast appearances in one handy list. Always happy to chat a
 * Advanced football/soccer metrics
 * User Experience/Product design
 
-You schedule a time to chat, you can contact me on Twitter at [@baseballtwit](http://twitter.com/baseballtwit) (DMs are open) or via email at adarowski *AT* gmail.
+To schedule a time to chat, you can contact me on Twitter at [@baseballtwit](http://twitter.com/baseballtwit) or [@fussballtwit](http://twitter.com/fussballtwit) (DMs are open) or via email at adarowski *AT* gmail.
+
+## Maine Road Ramble
+
+**April 4, 2021:** 54: Talking Borussia Dortmund with Adam Darowski from FbRef
+
+> Kevin is joined by Adam Darowski, the head of user experience with Sports Reference and FbRef, to discuss Borussia Dortmund. We go in depth on all aspects of the club from the tactics to the players and recent runs of form.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/0J4HHWSxDjU1GVlsY8AnwN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## Yellow Wall Pod
 
